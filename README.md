@@ -65,9 +65,9 @@ Code in this repository is released under the MIT License (see `LICENSE`).
 Notes:
 
 - The MNIST dataset is distributed via TorchVision and is governed by its respective license/terms.
-- Educational attribution: Adapted from the AWS ML Fundamentals course on Udacity. Any course materials remain the property of their respective owners.
+- Educational attribution: Adapted from the AWS ML Fundamentals Nanodegree's 2nd course (Introduction to Deep Learning) on Udacity. Any course materials remain the property of their respective owners.
 
 ## Acknowledgments
 
-- AWS Machine Learning Fundamentals course on Udacity
+- AWS Machine Learning Fundamentals Nanodegree on Udacity
 - PyTorch and TorchVision teams
