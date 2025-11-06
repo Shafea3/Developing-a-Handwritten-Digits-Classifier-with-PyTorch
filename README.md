@@ -55,7 +55,7 @@ MNIST Classifier/
 - README.md
 - requirements.txt
 - data/ (created/filled at runtime; ignored)
-- mnist_model.pth (optional saved weights; ignored by git)
+- mnist_model.pth
 - .gitignore
 
 ## License
